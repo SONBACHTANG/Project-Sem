@@ -1,0 +1,68 @@
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.deps.json
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\refint\Payment.Applications.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Applications\obj\Debug\net6.0\ref\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.deps.json
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.AssemblyReference.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfoInputs.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfo.cs
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.CoreCompileInputs.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment..18AF258C.Up2Date
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\refint\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\ref\Payment.Applications.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.deps.json
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\refint\Payment.Applications.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ReactTemplate\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\ref\Payment.Applications.dll
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.deps.json
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.AssemblyReference.cache
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfoInputs.cache
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.AssemblyInfo.cs
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.csproj.CoreCompileInputs.cache
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment..18AF258C.Up2Date
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.dll
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\refint\Payment.Applications.dll
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\Payment.Applications.pdb
+C:\Users\Quang Son\Desktop\Code\BanChuan\BanChuan\WebKimCuong\WebKimCuong\Payment.Applications\obj\Debug\net6.0\ref\Payment.Applications.dll
